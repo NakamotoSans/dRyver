@@ -1,0 +1,9 @@
+[submodule "Contracts"]
+	path = Contracts
+	url = https://github.com/NakamotoSans/Contracts
+[submodule "Application"]
+	path = Application
+	url = https://github.com/NakamotoSans/Application
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/NakamotoSans/Backend
