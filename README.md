@@ -120,12 +120,7 @@ Several scandals have emerged out of Uber’s corporate culture as of late. Uber
 
 ### Deployment Steps:
 ---
-**Setting up Ethereum Smart Contract:**
 
-```
-git clone https://github.com/NakamotoSans/Contracts
-cd COntracts/
-```
 #### Smart contracts
 
 Steps to Execute Solidity Smart Contract using Remix IDE
@@ -142,3 +137,30 @@ Step 2:Import the contracts from your local system. Click the Compile button und
 Step 3: To execute the code, click on the Deploy button under the Deploy and Run Transactions window.
 Step 4: After deploying the code click on the method calls under the drop-down of deployed contracts to run the program, and for output, check to click on the drop-down on the console.
 Step 5: For debugging click on the Debug button corresponding to the method call in the console. Here you can check each function call and variable assignment.
+
+#### Mobile Application
+
+Step 1: Make sure you have the development environment is setup for [React-Native](https://reactnative.dev/docs/environment-setup).
+Step 2: Clone our Application GitHub repo
+```
+git clone https://github.com/NakamotoSans/Application
+cd Application
+```
+Step 3: Install all the dependencies
+```
+yarn install //recommended
+```
+or
+```
+npm install
+```
+Step 4: Start the Metro
+
+```
+npx react-native start
+```
+
+Step 5: Run the Application
+```
+npx react-native run-android
+```
