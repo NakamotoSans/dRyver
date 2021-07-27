@@ -55,7 +55,7 @@ Several scandals have emerged out of Uber’s corporate culture as of late. Uber
 ### Included Components
 ---
 -  Solidity (**Ethereum**)
--  Metamask  (**Ethereum** wallet)
+-  Metamask (**Ethereum** wallet)
 -  Mumbai testnet ( **Polygon** Network with **Matic** Faucet )
 -  Remix IDE
 -  Truffle
