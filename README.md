@@ -3,8 +3,7 @@
 This project showcases the interaction between the commuter and driver during the course of booking a ride on the blockchain. 
 
 dRyver handles the sequence of activities and processes smoothly to make the experience of traveling seamless.
-### Demo
----
+
 Download and install the app on your device to try it out for yourself: 
 [dRyver APK](https://drive.google.com/drive/folders/14cTDfnSAJiQgY6DQ7RW9RkRkvQY8a5JI?usp=sharing)
 ### Video
@@ -38,11 +37,11 @@ Several scandals have emerged out of Uber’s corporate culture as of late. Uber
 
 
 
-### Application Workflow Diagram 📝
+### Application Workflow Diagram 🖊
 ---
 ![](https://github.com/NakamotoSans/Screens/blob/main/workflow.png?raw=true)
 
-### Smarts Contracts 😍
+### Smarts Contracts 📝
 ---
 
 1. User
@@ -72,7 +71,7 @@ Several scandals have emerged out of Uber’s corporate culture as of late. Uber
 -  Firebase for Google Auth
 
 
-### UI screenshots of Mobile App:
+### UI screenshots of Mobile App 📸
 
 <p align="center">	
 <table>
