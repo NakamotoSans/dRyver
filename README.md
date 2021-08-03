@@ -74,41 +74,41 @@ Several scandals have emerged out of Uber’s corporate culture as of late. Uber
 ### UI screenshots of Mobile App 📸
 
 <p align="center">	
-<table>
+<table align="center">
 	
   <tr>
-	  <td><b>Welcome Screen</b></td>
-	  <td><b>Login Screen</b></td>
-	  <td><b>Google AUth</b></td>
+	  <td align="center"><b>Welcome Screen</b></td>
+	  <td align="center"><b>Login Screen</b></td>
+	  <td align="center"><b>Google AUth</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/IMG_20210725_143841.jpg" width=320 height=570></td>
-    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/IMG_20210725_145106.jpg" width=320 height=570></td>
-    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/IMG_20210725_145547.jpg" width=320 height=570></td>
+    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/IMG_20210725_143841.jpg" width=270 height=590></td>
+    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/IMG_20210725_145106.jpg" width=270 height=590></td>
+    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/IMG_20210725_145547.jpg" width=270 height=590></td>
   </tr>
 		
   <tr>
-	  <td><b>Add Driver Details</b></td>
-	  <td><b>Link Wallet</b></td>
-	  <td><b>Searching Phase</b></td>
+	  <td align="center"><b>Add Driver Details</b></td>
+	  <td align="center"><b>Link Wallet</b></td>
+	  <td align="center"><b>Searching Phase</b></td>
   </tr>
   
 	
   <tr>
-    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/Screenshot_2021-07-25-15-06-28-217_com.sans.nakamoto.jpg" width=320 height=570></td>
-    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/IMG_20210725_150003.jpg" width=320 height=570></td>
-    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/IMG_20210725_150640.jpg" width=320 height=570></td>
+    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/Screenshot_2021-07-25-15-06-28-217_com.sans.nakamoto.jpg" width=270 height=590></td>
+    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/IMG_20210725_150003.jpg" width=270 height=590></td>
+    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/IMG_20210725_150640.jpg" width=270 height=590></td>
   </tr>	
 		
   <tr>
-	  <td><b>Select Pickup and Drop Locations</b></td>
-	  <td><b>Active Ride Requests</b></td>
-	  <td><b>Ride Confirmed</b></td>
+	  <td align="center"><b>Select Pickup and Drop Locations</b></td>
+	  <td align="center"><b>Active Ride Requests</b></td>
+	  <td align="center"><b>Ride Confirmed</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/IMG_20210725_151310.jpg" width=320 height=570></td>	
-    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/Screenshot_2021-07-25-15-06-57-049_com.sans.nakamoto.jpg" width=320 height=570></td>
-    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/IMG_20210725_150832.jpg" width=320 height=570></td>
+    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/IMG_20210725_151310.jpg" width=270 height=590></td>	
+    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/Screenshot_2021-07-25-15-06-57-049_com.sans.nakamoto.jpg" width=270 height=590></td>
+    <td><img src="https://github.com/NakamotoSans/Screens/blob/main/IMG_20210725_150832.jpg" width=270 height=590></td>
     
   </tr>	
  </table>	
